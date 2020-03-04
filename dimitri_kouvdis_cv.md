@@ -52,6 +52,9 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 - CMS <br>
   - Craft 3, ExpressionEngine, Statamic
 - Other
+  - Agile
+  - Pair Programming
+  - Mentoring junior developers
   - Git, SVN
   - Bash / ZSH
   - UX (Advanced)
@@ -69,36 +72,38 @@ Worked for clients listed below:
 - Full-stack developer @ **[John Lewis](https://www.johnlewis.com/)** <br>
   _January 2019 - Current_
 
-  **Stack:** Javascript (Node, Next.js), Kubernetes, SASS, Cypress, Docker, Gitlab CI
+  Worked on micro-site for the upholstery department focusing on improving customers buying experience build in Next.js and Node/Express. I introduced BDD (Cypress) into our daily workflow to improve application confidence. Frequently paired with back-end developer for system operability and structuring catalogue API for Sofa product description pages. Did many CI/CD tasks. Provided mentoring to apprentice developer.
+
+  **Stack:** Agile, Pair programming, BDD, Javascript (Node, Next.js), Kubernetes, SASS, Cypress, Docker, Gitlab CI
 
 - Front-end developer @ **[O2](https://www.o2.co.uk/)** <br>
   _December 2018_
 
-  Worked with internal CMS. Did updating outdated dependencies and refactor deprecated methods to support new libraries.
+  Worked with internal CMS. Did updating outdated dependencies and refactor React deprecated methods to support new libraries for handover.
 
   **Stack:** JavaScript (Express, Node, React)
 
 - Full-stack developer @ **[Klarna](https://www.klarna.com/)** (Tel Aviv / Berlin / Stockholm) <br>
   _February 2018 - November 2018_
 
-  Two in one role: I was part of the Authentication team, maintaining the service, improving/protecting customers access, integrating several authentication methods such as SOFORT, Swedish Bank ID, Email Link & OTP etc. Also worked on the login section of Klarna app in React Native, with multiple user journeys per authentication method. I was assigned to several tasks improving CI flow such as publishing docker image to the registry.
+  Two in one role: I was part of the Authentication team, maintaining the service, improving/protecting customers access, integrating several authentication methods such as SOFORT, Swedish Bank ID, Email Link & OTP etc. Also worked on the login section of Klarna app in React Native, with multiple user journeys per authentication method. I was assigned to several tasks improving CI flow, such as publishing docker images to the registry.
 
-  **Stack:** JavaScript (Express, Node, React, React Native, redux-observable, Jest, Jasmine), Docker, Splunk, AWS, Jenkins, Bash
+  **Stack:** Agile, Pair programming, TDD, JavaScript (Express, Node, React, React Native, redux-observable, Jest, Jasmine), Docker, Splunk, AWS, Jenkins, Bash
 
 - Front-end developer @ **[HM Revenue & Customs](https://www.gov.uk/government/organisations/hm-revenue-customs)** <br>
   _January 2018_
 
   Worked closely with UX designers and produced web prototypes to improve/test the accessibility experience for users with disabilities and learning difficulties
 
-  **Stack:** JavaScript (Express, Node), HTML, CSS
+  **Stack:** Agile, JavaScript (Express, Node), HTML, CSS
 
 - Front-end developer @ **[Camelot Global](https://www.camelotls.com//)** <br>
   _Throughout 2017_
 
-  Worked on several micro platforms for [LoRo](https://jeux.loro.ch/). I worked in three different roles. <br>
-  I was an FE Lead assistant to deliver two platforms an online horse betting application and Sports betting application; collaborated with developers based in Athens (GR) and Sofia (BG). Also worked on DBG landing pages (Draw Based Games)
+  I worked in three different roles, on several micro platforms for [LoRo](https://jeux.loro.ch/). <br>
+  I was an FE Lead assistant to deliver two platforms - online horse betting application and Sports betting application; collaborating with developers based in Athens (GR) and Sofia (BG). Also worked on DBG landing pages (Draw Based Games)
 
-  **Stack:** JavaScript (React, Redux Saga), SASS, Freemarker
+  **Stack:** Agile, JavaScript (React, Redux Saga), SASS, Freemarker
 
 - Front-end developer @ **[Rightmove](https://www.rightmove.co.uk)** <br>
   _December 2016_
@@ -219,7 +224,7 @@ I did many in-house and large-scale traffic projects. I was in the lead role for
 
 --
 
-#### Front-end developer @ **[Flow Communications](https://www.flowsa.com)**(Johannesburg, South Africa)
+#### Front-end developer @ **[Flow Communications](https://www.flowsa.com)** (Johannesburg, South Africa)
 
 _2010 - July 2012_
 
