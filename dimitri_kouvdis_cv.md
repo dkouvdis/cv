@@ -45,11 +45,11 @@ Over the years of developing, I've moulded myself into a well-rounded individual
   - BEM and ITCSS methodology
   - Experience developing large-scale UI toolkit from scratch
   - I enjoy working with functional/atomic CSS
-- DevOps, CI/CD
-  - Docker, Jenkins, Travis CI, Gitlab CI, AWS, Kubernetes, Grafana, Splunk, Kibana, Vagrant
 - DB
-  - PostgreSQL MongoDB, MySQL, Redis
-- CMS <br>
+  - PostgreSQL, MongoDB, MySQL, Redis
+- I have worked with
+  - Docker, Jenkins, Travis CI, Gitlab CI, AWS, Kubernetes, Grafana, Splunk, Kibana, Vagrant
+- CMS
   - Craft 3, ExpressionEngine, Statamic
 - Other
   - Agile
@@ -69,12 +69,19 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 _December 2016 - Current_ <br>
 Worked for clients listed below:
 
+- Full-stack developer (Fully remote) @ **[Caterpillar](https://www.caterpillar.com)** <br>
+  _September 2020 - Current_
+
+  Description pending...
+
+  **Stack:** Javascript (Node, React, TypeScript, Next.js), TDD, BDD, Docker, Azure
+
 - Full-stack developer @ **[John Lewis](https://www.johnlewis.com/)** <br>
-  _January 2019 - Current_
+  _January 2019 - August 2020_
 
   Worked on micro-site for the upholstery department focusing on improving customers buying experience build in Next.js and Node/Express. I introduced BDD (Cypress) into our daily workflow to improve application confidence. Frequently paired with back-end developer for system operability and structuring catalogue API for Sofa product description pages. Did many CI/CD tasks. Provided mentoring to apprentice developer.
 
-  **Stack:** Agile, Pair programming, BDD, Javascript (Node, Next.js), Kubernetes, SASS, Cypress, Docker, Gitlab CI
+  **Stack:** Agile, Pair programming, BDD, Javascript (Node, React, TypeScript, Next.js), Kubernetes, SASS, Cypress, Docker, Gitlab CI
 
 - Front-end developer @ **[O2](https://www.o2.co.uk/)** <br>
   _December 2018_
