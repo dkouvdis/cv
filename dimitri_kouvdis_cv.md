@@ -69,10 +69,17 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 _December 2016 - Current_ <br>
 Worked for clients listed below:
 
-- Full-stack developer (Fully remote) @ **[Caterpillar](https://www.caterpillar.com)** <br>
-  _September 2020 - Current_
+- Full-stack developer (Fully remote) @ **[Pret A Manger](https://www.pret.co.uk/en-GB)** <br>
+  _December 2020 - Current_
 
-  Description pending...
+  Part of the Authentication (Auth0) team
+
+  **Stack:** Javascript (Node, Auth0, React, Next.js), TDD, BDD, Github Actions
+
+- Full-stack developer (Fully remote) @ **[Caterpillar](https://www.caterpillar.com)** <br>
+  _September 2020 - December 2020_
+
+  Development of React + Node application to report on used equipment sales using data provided form machine learning. 
 
   **Stack:** Javascript (Node, React, TypeScript, Next.js), TDD, BDD, Docker, Azure
 
