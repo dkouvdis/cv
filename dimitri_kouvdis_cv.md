@@ -3,7 +3,7 @@
 ### Front-end | Full-stack Developer
 
 - **Mobile:** Email only
-- **Email:** [dimitri@metaplatforms.com](mailto:dimitri@metaplatforms.com)
+- **Email:** [dkouvdis@metaplatforms.io](mailto:dkouvdis@metaplatforms.io)
 - **Website:** [dkouvdis.com](https://www.dkouvdis.com)
 - **Linkedin:** [uk.linkedin.com/in/dkouvdis](https://uk.linkedin.com/in/dkouvdis)
 - **Github:** [github.com/dkouvdis](https://github.com/dkouvdis)
@@ -69,8 +69,11 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 _December 2016 - Current_ <br>
 Worked for clients listed below:
 
+- Full-stack developer (Fully remote) @ **[Flink](https://www.goflink.com)** <br>
+  _August 2021 - Current_
+
 - Full-stack developer (Fully remote) @ **[Pret A Manger](https://www.pret.co.uk/en-GB)** <br>
-  _December 2020 - Current_
+  _December 2020 - July 2021_
 
   Part of the Authentication (Auth0) team
 
@@ -79,7 +82,7 @@ Worked for clients listed below:
 - Full-stack developer (Fully remote) @ **[Caterpillar](https://www.caterpillar.com)** <br>
   _September 2020 - December 2020_
 
-  Development of React + Node application to report on used equipment sales using data provided form machine learning. 
+  Development of React + Node application to report on used equipment sales using data provided form machine learning.
 
   **Stack:** Javascript (Node, React, TypeScript, Next.js), TDD, BDD, Docker, Azure
 
