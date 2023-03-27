@@ -1,27 +1,18 @@
 # Curriculum Vitae - Dimitri Kouvdis
 
-### Front-end | Full-stack Developer
+<img src="https://dkouvdis.github.io/cv/docs/avatar.jpg" width="150" height="150" /> <br>
 
-- **Mobile:** Email only
 - **Email:** [dkouvdis@metaplatforms.io](mailto:dkouvdis@metaplatforms.io)
 - **Website:** [dkouvdis.com](https://www.dkouvdis.com)
-- **Linkedin:** [uk.linkedin.com/in/dkouvdis](https://uk.linkedin.com/in/dkouvdis)
+- **Linkedin:** [uk.linkedin.com/in/dkouvdis](https://linkedin.com/in/dkouvdis)
 - **Github:** [github.com/dkouvdis](https://github.com/dkouvdis)
 - British and EU Passports Holder
 
 ---
 
-## Note
-
-_Recruiters and Companies: Sorry no telephone interviews._
-
-I am deaf and unable to hear over the phone. Please contact me via email - I am happy to meet in person for interviews or video calling. I require no assistance - I rely on lip-reading and speak well.
-
----
-
 ## Profile
 
-I'm a Front-end / Full-stack developer based in London with over fourteen years of development experience, including in the commercial/FinTech industry sector. I specialise in producing high-quality interfaces for client-side web applications.
+I'm a Full-stack developer based in Cyprus with over fourteen years of development experience, including in the commercial/FinTech industry sector. I specialise in producing high-quality interfaces for client-side web applications.
 
 I am university educated with B-Tech in Multimedia and consistently scored over 90% in the UI/UX section of Adobe Flash projects throughout my studies. Interactive/UI developments are my speciality.
 
@@ -29,36 +20,13 @@ My job is not solely to write code. I aim to deliver an exceptionally functional
 
 Over the years of developing, I've moulded myself into a well-rounded individual who appreciates best practice and progressively keeps up with new web technologies.
 
----
-
-## Skills
-
-- JavaScript
-  - Client-side | vanilla JavaScript, TypeScript and frameworks including React, Next.js, React Native, Vue, etc
-  - Server-side | Node, Express, Passport, etc
-  - Test/Behaviour driven development (TDD/BDD) | Cypress, Jest, Jasmine, etc
-  - Build tools | Webpack, Grunt, Gulp and Node
-- HTML
-  - Standards compliant, including WCAG 1.0 AA and WAI-ARIA
-- CSS3
-  - PostCSS, SASS, LESS
-  - BEM and ITCSS methodology
-  - Experience developing large-scale UI toolkit from scratch
-  - I enjoy working with functional/atomic CSS
-- DB
-  - PostgreSQL, MongoDB, MySQL, Redis
-- I have worked with
-  - Docker, Jenkins, Travis CI, Gitlab CI, AWS, Kubernetes, Grafana, Splunk, Kibana, Vagrant
-- CMS
-  - Craft 3, ExpressionEngine, Statamic
-- Other
-  - Agile
-  - Pair Programming
-  - Mentoring junior developers
-  - Git, SVN
-  - Bash / ZSH
-  - UX (Advanced)
-  - Photoshop and Sketch (Advanced)
+- Strong experience in Javascript related tools and libraries
+  - Typescript, React, React Native, Vue.js, Next.js, Webpack
+  - Node, Express, Passport
+  - Cypress, Jest, Jasmine, etc
+- Strong belief to enforce practice to use TDD/BDD
+- Ability to take on DevOps responsibilities using Docker, managing deployments with Github CI/CD, Gitlab CI/CD, Jenkins pipelines and working with AWS and Google Cloud
+- Experience with mentoring junior/mid level developers
 
 ---
 
@@ -66,11 +34,21 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 
 #### **[Equal Experts](https://www.equalexperts.com)**
 
-_December 2016 - Current_ <br>
+_December 2016 - December 2022_ <br>
 Worked for clients listed below:
 
 - Full-stack developer (Fully remote) @ **[Flink](https://www.goflink.com)** <br>
-  _August 2021 - Current_
+  _August 2021 - December 2022_
+
+  I took several responsibilities spanning multiple teams, with a vast amount of tech stack (see last line); support finishing up sprints, completing complex features, and mentoring junior/mid developers.
+
+  I have migrated some projects from Vue to React. Written Github workflows from scratch to be reused as templates to meet teams' requirements.
+
+  Supported React Native team to maintain an app and manage deployments and releases via Github Actions and Expo.io
+
+  and many more
+
+  **Stack:** Javascript (Typescript, Node, React, React Native, Vue, Expo.io, Nest.js, Graphql, Auth0, Cypress, Playwright), Github CI/CD, Terraforms, Google Cloud
 
 - Full-stack developer (Fully remote) @ **[Pret A Manger](https://www.pret.co.uk/en-GB)** <br>
   _December 2020 - July 2021_
