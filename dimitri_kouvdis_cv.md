@@ -2,7 +2,7 @@
 
 <img src="https://dkouvdis.github.io/cv/docs/avatar.jpg" width="150" height="150" /> <br>
 
-- **Email:** [dkouvdis@metaplatforms.io](mailto:dkouvdis@metaplatforms.io)
+- **Email:** [dimitri@metaplatforms.io](mailto:dimitri@metaplatforms.io)
 - **Website:** [dkouvdis.com](https://www.dkouvdis.com)
 - **Linkedin:** [uk.linkedin.com/in/dkouvdis](https://linkedin.com/in/dkouvdis)
 - **Github:** [github.com/dkouvdis](https://github.com/dkouvdis)
@@ -21,7 +21,7 @@ My job is not solely to write code. I aim to deliver an exceptionally functional
 Over the years of developing, I've moulded myself into a well-rounded individual who appreciates best practice and progressively keeps up with new web technologies.
 
 - Strong experience in Javascript related tools and libraries
-  - Typescript, React, React Native, Vue.js, Next.js, Webpack
+  - Typescript, React, React Native, Vue.js, Next.js, Nuxt.js, GraphQL, Webpack
   - Node, Express, Passport
   - Cypress, Jest, Jasmine, etc
 - Strong belief to enforce practice to use TDD/BDD
@@ -34,8 +34,17 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 
 #### **[Equal Experts](https://www.equalexperts.com)**
 
-_December 2016 - December 2022_ <br>
-Worked for clients listed below:
+_December 2016 - September 2023_ <br>
+
+- Front-end developer (Fully remote) @ **[Parloa](https://www.parloa.com/)** <br>
+  _July 2023 - September 2023_
+
+  **Stack:** Javascript (Typescript, TRPC, React, Next.js, Playwright)
+
+- Front-end developer (Fully remote) @ **[Series Eight](https://serieseight.com/)** <br>
+  _May 2023 - June 2023_
+
+  **Stack:** Javascript (Vue.js, Nuxt.js, GraphQL)
 
 - Full-stack developer (Fully remote) @ **[Flink](https://www.goflink.com)** <br>
   _August 2021 - December 2022_
