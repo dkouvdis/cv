@@ -12,7 +12,7 @@
 
 ## Profile
 
-I'm a Full-stack developer based in Cyprus with over fourteen years of development experience, including in the commercial/FinTech industry sector. I specialise in producing high-quality interfaces for client-side web applications.
+I'm a Full-stack developer with over fourteen years of development experience, including in the commercial/FinTech industry sector. I specialise in producing high-quality interfaces for client-side web applications.
 
 I am university educated with B-Tech in Multimedia and consistently scored over 90% in the UI/UX section of Adobe Flash projects throughout my studies. Interactive/UI developments are my speciality.
 
