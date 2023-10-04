@@ -34,7 +34,7 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 
 #### **[Equal Experts](https://www.equalexperts.com)**
 
-- _December 2016 - December 2022_ 
+- _December 2016 - December 2022_
 - _July 2023 - September 2023_
 
 --
@@ -42,7 +42,7 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 Front-end developer (Fully remote) @ **[Parloa](https://www.parloa.com/)** <br>
 _July 2023 - September 2023_
 
-Three months contract, my role was to develop an evaluation dashboard for internal users to provide feedback (approve/disapproved, reason) on bot answers via the LLM service. 
+Three months contract, my role was to develop an evaluation dashboard for internal users to provide feedback (approve/disapproved, reason) on bot answers via the LLM service.
 
 **Stack:** React, Typescript, Next.js, TRPC, React-Query, Terraforms, Google Cloud, Playwright, Styled Component, LangChain, Mongo DB, Github CI/CD
 
@@ -51,7 +51,7 @@ Three months contract, my role was to develop an evaluation dashboard for intern
 Front-end developer (Fully remote) @ **[Series Eight](https://serieseight.com/)** <br>
 _May 2023 - June 2023_
 
-Three months contract, I was hired to provide high-level support, refactor, and implement Graphql solution, improving performance and coding standards for the front-end team. <br />
+Three months contract, I was hired to provide high-level support, refactor, and implement GraphQL solution, improving performance and coding standards for the front-end team. I have built several featured pages from Figma designs into Vue components styled with Tailwind <br />
 Project - https://www.viatu.com/
 
 **Stack:** Vue.js, Nuxt.js, Graphql, Tailwind
@@ -143,6 +143,7 @@ Maintained mortgage calculator microsite
 **Stack:** JavaScript (Node), HTML, CSS
 
 --
+
 #### Front-end developer @ **[VICE](http://www.vice.com)**
 
 _November 2016 - December 2016_
@@ -152,6 +153,7 @@ Improved and maintained Craft CMS microsite - [thefifthsense.i-d.co](http://thef
 **Stack:** Craft CMS, JavaScript, HTML, CSS
 
 --
+
 #### Front-end developer @ **[Pulse Comms](http://www.pulsecomms.com/)**
 
 _November 2016_
@@ -161,6 +163,7 @@ Worked on building automated email templates to load translated contents
 **Stack:** JavaScript (Node) and HTML
 
 --
+
 #### Front-end developer @ **[The Frameworks Spark](http://www.tfspark.com/)**
 
 _September 2016 - November 2016_
@@ -170,6 +173,7 @@ Worked on Avios UI toolkit, built modular components for rapid development
 **Stack:** JavaScript (Node and Handlebars), HTML, CSS
 
 --
+
 #### Front-end developer @ **[Club House](http://weareclubhouse.com/)**
 
 _August 2016 - September 2016_
@@ -179,6 +183,7 @@ Built components for Tetley. Worked on new Byron Hamburger user account section 
 **Stack:** JavaScript, HTML and CSS
 
 --
+
 #### Front-end developer @ **[The Frameworks Spark](http://www.tfspark.com/)**
 
 _April 2016 - July 2016_
@@ -188,6 +193,7 @@ Worked on VW, added new features and maintenance - with Java (Grails) backend de
 **Stack:** JavaScript, HTML and CSS
 
 --
+
 #### Front-end developer @ **[Future Platforms](http://www.futureplatforms.com/)**
 
 _February 2016 - March 2016_
@@ -197,6 +203,7 @@ Worked on various JavaScript applications such as Premier League and Domino's
 **Stack:** JavaScript (React & Browserify), HTML and CSS
 
 --
+
 #### Front-end developer @ **[TSL Digital](http://www.tsldigital.com)**
 
 _July 2015 - January 2016_
@@ -206,6 +213,7 @@ Worked on various interactive projects and web banners
 **Stack:** JavaScript, HTML and CSS
 
 --
+
 #### Front-end developer @ **[Bossa](http://www.letsbossa.com)**
 
 _May 2015 - July 2015_
@@ -213,6 +221,7 @@ _May 2015 - July 2015_
 Worked for a major media company (Unable to disclose due to NDA)
 
 --
+
 #### Full-stack developer @ **[Serieseight](https://serieseight.com)**
 
 _Jan 2015 - May 2015_
@@ -234,6 +243,7 @@ Hand-picked from BT consumer team to work with a Sapient team for six months lon
 **Stack:** HTML, CSS (LESS), JavaScript (Assemble.io, Handlebars, Grunt, Jquery, Angular)
 
 --
+
 #### Front-end developer @ **[BT](https://home.bt.com)**
 
 _November 2012 - October 2014_
@@ -243,6 +253,7 @@ I did many in-house and large-scale traffic projects. I was in the lead role for
 **Stack:** JavaScript, HTML, CSS, Handlebars
 
 --
+
 #### Front-end developer @ **[Flow Communications](https://www.flowsa.com)** (Johannesburg, South Africa)
 
 _2010 - July 2012_
