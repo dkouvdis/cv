@@ -35,7 +35,14 @@ Over the years of developing, I've moulded myself into a well-rounded individual
 #### **[Equal Experts](https://www.equalexperts.com)**
 
 - _December 2016 - December 2022_
-- _July 2023 - September 2023_
+- _July 2023 - June 2024_
+
+--
+
+Front-end developer (Fully remote) @ **[Airup](https://shop.air-up.com/cz/en)** <br>
+_October 2023 - June 2024_
+
+**Stack:** React, Typescript, Contentful, Next.js, Tailwind, Playwright, Github CI/CD
 
 --
 
