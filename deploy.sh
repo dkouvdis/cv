@@ -4,7 +4,7 @@ git branch -D gh-pages
 git checkout -b gh-pages
 
 mkdir docs
-mv avatar.jpg dimitri_kouvdis_cv.* docs/.
+mv avatar.jpg dimitri_kouvdis_* docs/.
 
 git add --all
 git commit -m "gh page build"
